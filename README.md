@@ -14,9 +14,9 @@
  </div>
 
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olyabogdanova&theme=transparent"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olyabogdanova&theme=transparent"/>
- <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olyabogdanova&theme=transparent'/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OlyaBogdanova&theme=transparent"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlyaBogdanova&theme=transparent"/>
+ <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlyaBogdanova&theme=transparent'/>
 
 
 
