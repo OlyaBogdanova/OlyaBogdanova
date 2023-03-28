@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaBogdanova&hide=html&langs_count=8&layout=compact"/>
+
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olyabogdanova&theme=transparent"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olyabogdanova&theme=transparent"/>
