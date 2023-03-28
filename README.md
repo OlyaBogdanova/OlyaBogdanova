@@ -12,7 +12,8 @@
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  </div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olyabogdanova)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=OlyaBogdanova"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaBogdanova)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
