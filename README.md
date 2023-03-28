@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaBogdanova&hide=html&langs_count=8&layout=compact"/>
  <img src="https://www.codewars.com/users/OlyaBogdanova/badges/large"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olyabogdanova&theme=solarized_dark"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olyabogdanova&theme=solarized_dark"/>
 
 
 
