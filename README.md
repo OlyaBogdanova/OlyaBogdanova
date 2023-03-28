@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaBogdanova&hide=html&langs_count=8&layout=compact"/>
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olyabogdanova&theme=transparent"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olyabogdanova&theme=transparent"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olyabogdanova&theme=transparent"/>
  <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olyabogdanova&theme=transparent'/>
 
 
