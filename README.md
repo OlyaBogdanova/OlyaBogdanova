@@ -18,7 +18,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaBogdanova&layout=compact"
  <div display='flex'>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlyaBogdanova&theme=transparent"/>
- <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlyaBogdanova&theme=transparent'/>
+<!--  <img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlyaBogdanova&theme=transparent'/> -->
  </div>
 
 
